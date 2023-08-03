@@ -32,7 +32,7 @@ EMAIL_HOST = 'smtp.gmail.com'
 EMAIL_PORT = 587
 EMAIL_USE_TLS = True
 EMAIL_HOST_USER = 'munapm1@gmail.com'  # Replace with your Gmail email address
-EMAIL_HOST_PASSWORD = 'xrucbulaaxiweryb'  # Replace with your Gmail password or an app-specific password
+EMAIL_HOST_PASSWORD = ''  # Replace with your Gmail password or an app-specific password
 
 LOGIN_URL = 'signin'
 
